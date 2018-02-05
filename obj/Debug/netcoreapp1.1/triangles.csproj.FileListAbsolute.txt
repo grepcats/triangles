@@ -1,9 +1,0 @@
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\bin\Debug\netcoreapp1.1\triangles.deps.json
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\bin\Debug\netcoreapp1.1\triangles.runtimeconfig.json
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\bin\Debug\netcoreapp1.1\triangles.runtimeconfig.dev.json
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\bin\Debug\netcoreapp1.1\triangles.dll
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\bin\Debug\netcoreapp1.1\triangles.pdb
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\obj\Debug\netcoreapp1.1\triangles.csproj.CoreCompileInputs.cache
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\obj\Debug\netcoreapp1.1\triangles.AssemblyInfo.cs
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\obj\Debug\netcoreapp1.1\triangles.dll
-C:\Users\Kayla\Programming\csharp_w1\monday\triangles\obj\Debug\netcoreapp1.1\triangles.pdb
